@@ -1,0 +1,27 @@
+.headerDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerLeftContainer>span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.headerRightContainer {
+    display: flex;
+    align-items: center;
+    column-gap: 34px;
+}
+
+.headerRightContainer > div {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+}

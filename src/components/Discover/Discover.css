@@ -1,0 +1,84 @@
+
+.plotClass {
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 34px;
+    align-items: center;
+  }
+  
+  .discoverImageClass {
+    background-image: url("../../assets/images/Rectangle\ 127.png");
+    height: 634px;
+    width: 547px;
+  }
+  
+  .discoverClass {
+    position: relative;
+    flex: 1;
+  }
+  
+  .discoverTextClass {
+    text-align: center;
+    position: relative;
+    left: -30%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 66px;
+    line-height: 91px;
+  }
+  
+  .startingAtOuterClass {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .startingAtTextClassOuterContainer{
+    text-align: start;
+  }
+  
+  .startingAtTextClass {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25.3786px;
+    line-height: 84px;
+    color: #909090;
+  }
+  
+  .priceTagClass {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 57.9574px;
+    line-height: 73px;
+    color: #FE6D3F;
+  }
+  
+  .perSqrClass{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 73px;
+  }
+  
+  .inputSearchClass{
+    margin-top: 80px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 26px;
+  }
+  
+  .inputBoxClass{
+    width: 400px;
+    border: none;
+    padding: 20px 40px;
+  }
+  
+  .inputBoxClass::placeholder{
+    font-size: 16px;
+  }
