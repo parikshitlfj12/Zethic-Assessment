@@ -1,0 +1,24 @@
+.ProjectAmmenitiesParent {
+    position: relative;
+    margin-top: 200px;
+    display: flex;
+    column-gap: 200px;
+    justify-content: space-around;
+}
+
+.middleContainer{
+    display: flex;
+    flex-direction: column;
+    row-gap: 80px;
+    align-items: center;
+}
+
+.projectAmmenitiesText {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color: #FE6D3F;
+    margin-bottom: 10px;
+}
