@@ -1,0 +1,61 @@
+.TPContainer {
+    margin-top: 36px;
+}
+
+.TPFirstContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftContainer {
+    width: 50%;
+    text-align: center;
+}
+
+.rightContainer {
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+}
+
+.headingStyle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45.6022px;
+    line-height: 55px;
+}
+
+.subHeadingStyle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18.2409px;
+    line-height: 22px;
+    color: #565656;
+}
+
+.rightContainer p:nth-child(2) {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17.7516px;
+    line-height: 33px;
+}
+
+.TPSecondContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.loreumStyles {
+    margin-top: 136px;
+    width: 750px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 38px;
+}
