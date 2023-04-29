@@ -8,6 +8,8 @@ import ExploreCollection from "./components/ExploreCollection/ExploreCollection"
 import ProjectAmmenities from "./components/ProjectAmmenities/ProjectAmmenities";
 import FeatureProjects from "./components/FeatureProjects/FeatureProjects";
 import ProjectHighlights from "./components/ProjectHighlights/ProjectHighlights";
+import ClientsTestimony from "./components/ClientsTestimony/ClientsTestimony";
+import ScheduleComponent from "./components/ScheduleComponent/ScheduleComponent"
 
 export default function App() {
   return (
@@ -20,6 +22,8 @@ export default function App() {
       <ProjectAmmenities />
       <FeatureProjects />
       <ProjectHighlights />
+      <ClientsTestimony />
+      <ScheduleComponent />
       <Footer />
     </div>
   );

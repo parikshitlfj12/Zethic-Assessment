@@ -1,0 +1,16 @@
+.scheduleComponentParent {
+    position: relative;
+    margin-top: 230px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.CuriousTextClass {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 60px;
+    margin-bottom: 60px;
+}
